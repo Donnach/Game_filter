@@ -26,15 +26,15 @@
 ||cdntips.com^
 ||apex.qq.com^
 # --- 微信小程序与游戏屏蔽 ---
-||servicewechat.com^$important
-||game.weixin.qq.com^$important
-||res.servicewechat.com^$important
+||servicewechat.com^
+||game.weixin.qq.com^
+||res.servicewechat.com^
 ||mp.weixin.qq.com/mp/waerrpage^
 ||wx.qlogo.cn/mmopen/vi_32/^
 # --- QQ 小程序与游戏屏蔽 ---
-||m.game.qq.com^$important
-||speed.game.qq.com^$important
-||miniapp.qq.com^$important
+||m.game.qq.com^
+||speed.game.qq.com^
+||miniapp.qq.com^
 # --- 游戏数据上报与加载 (通用) ---
 ||tdm.qq.com^
 ||game.gtimg.cn^
