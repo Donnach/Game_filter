@@ -16,7 +16,6 @@
 ||ac.qq.com^
 #微信小程序游戏
 ||game.weixin.qq.com^
-||game.qq.com^
 ||mweb.ymzx.qq.com^
 ||minigame.qq.com^
 ||wxsnsdy.wxs.qq.com^
@@ -27,7 +26,6 @@
 ||apex.qq.com^
 # --- 微信小程序与游戏屏蔽 ---
 ||servicewechat.com^
-||game.weixin.qq.com^
 ||res.servicewechat.com^
 ||mp.weixin.qq.com/mp/waerrpage^
 ||wx.qlogo.cn/mmopen/vi_32/^
@@ -71,7 +69,6 @@
 # 一线游戏厂商（一级域名）
 ||mihoyo.com^
 ||lilith.com^
-||wanmei.com^
 ||shengqugames.com^
 ||37wan.net^
 ||37.com^
@@ -160,37 +157,11 @@
 ||weileweb.com^
 ||unifease.com^
 ||jixiang.cn^
-||mokun.net^
 
 #棋牌游戏专业厂商（一级域名）
-||boke.com^
-||bianfeng.com^
-||tongcheng.com^
-||jj.cn^
-||ourgame.com^
-||jiaxianghudong.com^
-||weile.com^
-||jiaxianggame.com^
-||jixiang.cn^
-||chancetech.com^
-||yaoji.cn^
-||weipingsoft.com^
 ||boyaa.com^
 ||qqgame.com^
 
-#棋牌游戏专业厂商（一级域名）
-||boke.com^
-||bianfeng.com^
-||tongcheng.com^
-||jj.cn^
-||ourgame.com^
-||jiaxianghudong.com^
-||weile.com^
-||jiaxianggame.com^
-||jixiang.cn^
-||chancetech.com^
-||yaoji.cn^
-||weipingsoft.com^
 
 #其他知名厂商（一级域名）
 ||tgbus.com^
@@ -242,3 +213,504 @@
 ||remixos.com^
 ||phoenixos.com^
 ||windroy.com^
+
+# ==================== 补充域名 ====================
+
+# --- 腾讯系补充 ---
+||tgp.qq.com^
+||gamecenter.qq.com^
+||qgame.qq.com^
+||mgame.qq.com^
+||speed.qq.com^
+
+# --- 网易系补充 ---
+
+# --- 米哈游补充 ---
+||hoyoverse.com^
+||genshinimpact.com^
+||honkaiimpact3.com^
+||starrail.hoyoverse.com^
+||zenless.hoyoverse.com^
+||tears-of-themis.com^
+||mihayou.com^
+||bh3.com^
+
+# --- 莉莉丝补充 ---
+||lilithgames.com^
+||afkarena.lilith.com^
+||riseofkingdoms.com^
+
+# --- 鹰角网络补充 ---
+||arknights.global^
+||arknights.jp^
+||arknights.kr^
+||endfield.hypergryph.com^
+
+# --- 库洛游戏补充 ---
+||kurogame.net^
+||pgr.kurogame.com^
+||wutheringwaves.com^
+||ww.kurogame.com^
+
+# --- 叠纸游戏补充 ---
+||nikke-en.com^
+||nikke-jp.com^
+||nikke-kr.com^
+||infinitynikki.papergames.cn^
+||shiningnikki.com^
+||loveanddeepspace.com^
+||mrlovequeen.com^
+
+# --- 散爆网络补充 ---
+||girlsfrontline.com^
+||gf-cn.sunborngame.com^
+||gf-jp.sunborngame.com^
+
+# --- 蛮啾网络补充 ---
+||blhx.com^
+||azurlane.yo-star.com^
+
+# --- 心动网络/TapTap补充 ---
+||taptap.com^
+||taptap.io^
+||xd.com^
+||xdcdn.net^
+
+# --- 雷霆游戏补充 ---
+||leitinggames.com^
+||qiqiuyu.com^
+
+# --- 吉比特/雷霆补充 ---
+||g-bits.cn^
+||movergames.com^
+
+# --- 完美世界补充 ---
+||wanmei.net^
+||pwrd.com^
+||perfectworld.com^
+||perfectworldgames.com^
+
+# --- 畅游补充 ---
+||cy.com^
+||tlbb.com^
+
+# --- 巨人网络补充 ---
+||juren.com^
+||zloong.com^
+
+# --- 盛趣游戏补充 ---
+||sqyx.com^
+||sdo.com^
+||sdoproxy.com^
+
+# --- 三七互娱补充 ---
+||37games.com^
+||37wan.com^
+
+# --- 多益网络补充 ---
+||duoyi.cn^
+||yxbao.com^
+
+# --- 西山居补充 ---
+||jx3.xoyo.com^
+
+# --- 英雄游戏补充 ---
+||hero.com^
+||heroestd.com^
+
+# --- 中手游补充 ---
+||cmge.hk^
+
+# --- 创梦天地补充 ---
+||idreamsky.cn^
+
+# --- IGG补充 ---
+||igg.net^
+
+# --- FunPlus补充 ---
+||funplusgame.com^
+
+# --- 沐瞳科技补充 ---
+||mobilelegends.com^
+
+# --- 游族网络补充 ---
+||uuzu.com^
+
+# --- 波克城市补充 ---
+||boke.cn^
+
+# --- 边锋网络补充 ---
+||bianfeng.cn^
+
+# --- JJ比赛补充 ---
+||jjmatch.com^
+
+# --- 家乡互动补充 ---
+||jiaxianghudong.cn^
+
+# --- 微乐补充 ---
+
+# --- 吉祥游戏补充 ---
+||jixiang.com^
+
+# --- 禅游科技补充 ---
+
+# --- 姚记科技补充 ---
+||yaojitechnology.com^
+
+# --- 博雅互动补充 ---
+||boyaagame.com^
+
+# --- QQ游戏补充 ---
+||qqgame.qq.com^
+
+# --- 贪玩游戏补充 ---
+
+# --- 4399补充 ---
+||4399.cn^
+||4399.net^
+
+# --- 91补充 ---
+||91.cn^
+
+# --- 顺网科技补充 ---
+||shunwang.cn^
+
+# --- 盛天网络补充 ---
+||shengtian.cn^
+
+# --- 网龙网络补充 ---
+||nd.com^
+
+# --- 冰川网络补充 ---
+||bingchuannet.com^
+
+# --- 迅游科技补充 ---
+||xunyou.cn^
+
+# --- 慧程科技补充 ---
+
+# --- 大晟文化补充 ---
+
+# --- 天舟文化补充 ---
+
+# --- 凯撒文化补充 ---
+
+# --- 富春股份补充 ---
+
+# --- 星辉娱乐补充 ---
+||rastargame.com^
+
+# --- Outfit7补充 ---
+||outfit7.net^
+
+# --- 字节跳动/朝夕光年补充 ---
+||bytedance.net^
+||byted.org^
+||game.bytedance.net^
+||zhaoxiguangnian.com^
+||zhaoxiguangnian.cn^
+||nurogames.com^
+
+# --- 阿里巴巴/灵犀互娱补充 ---
+||aligames.com^
+||lingxigames.com^
+||9game.cn^
+||9game.com^
+||uc.cn^
+
+# --- 百度游戏补充 ---
+||baidugame.com^
+
+# --- 哔哩哔哩游戏补充 ---
+||biligame.com^
+||biligame.net^
+
+# --- 小米游戏补充 ---
+||xiaomigame.com^
+
+# --- 华为游戏补充 ---
+||higame.cn^
+
+# --- OPPO游戏补充 ---
+||oppogame.com^
+
+# --- vivo游戏补充 ---
+||vivogame.com^
+
+# --- 360游戏补充 ---
+||360game.com^
+
+# --- 快手游戏补充 ---
+||kuaishougame.com^
+
+# --- 微博游戏补充 ---
+||weibogame.com^
+
+# --- 其他知名游戏平台补充 ---
+||tgbus.cn^
+||wandoujia.cn^
+
+# --- 网络小说平台补充 ---
+||qidian.cn^
+||qdmm.com^
+||zongheng.cn^
+||jjwxc.com^
+||17k.net^
+||hongshu.cn^
+||fanqienovel.cn^
+
+# --- 游戏媒体补充 ---
+||gamer.cn^
+||ali213.com^
+||3dmgame.cn^
+||gamersky.cn^
+
+# --- 模拟器补充 ---
+||gameloop.com^
+
+# --- 海外主流游戏平台补充 ---
+||steamcommunity.com^
+||steampowered.com^
+||steamgames.com^
+||epicgames.dev^
+||gogalaxy.com^
+||eadesktop.com^
+||ubisoftconnect.com^
+||blizzard.cn^
+||valorant.com^
+||leagueoflegends.com^
+||roblox.cn^
+||nintendo.net^
+||nintendo.co.jp^
+||sonyentertainmentnetwork.com^
+||xboxlive.com^
+||zenimax.com^
+||squareenix.com^
+||bandainamcoent.eu^
+||sega.jp^
+||capcom.co.jp^
+||konami.net^
+||namcobandaigames.com^
+||activisionblizzard.com^
+||2kgames.com^
+||rockstarsocialclub.com^
+||battlenet.com.cn^
+
+# --- 海外热门手游厂商补充 ---
+||supercell.net^
+||clashofclans.com^
+||clashroyale.com^
+||brawlstars.com^
+||candycrushsaga.com^
+||angrybirds.com^
+||gameloft.cn^
+||glumobile.com^
+||zyngagames.com^
+||mz.com^
+||playrix.cn^
+||voodoo-games.com^
+||ketchappgames.com^
+||saygames.io^
+||supersonic.com^
+||miniclip.com^
+||agame.com^
+||kongregate.com^
+||newgrounds.com^
+||armorgames.com^
+||addictinggames.com^
+||poki.com^
+||crazygames.com^
+||y8.com^
+||friv.com^
+||coolmathgames.com^
+
+# --- 云游戏平台补充 ---
+||yowa.huya.com^
+||cloudgame.migu.cn^
+||5g.migufun.com^
+||gamer.ntesg.com^
+||netease-cloudgame.com^
+||boheyouxi.com^
+||douyucdn.cn^
+||huyagame.cn^
+||bilivideo.cn^
+
+# --- 游戏直播补充 ---
+||douyutv.com^
+||huyalive.cn^
+||live.bilibili.com^
+||cc.163.com^
+||live.kuaishou.com^
+||yystatic.com^
+||zhanqi.tv^
+||panda.tv^
+||quanmin.tv^
+||longzhu.com^
+||egame.qq.com^
+||inke.cn^
+||huajiao.com^
+
+# --- 游戏加速器补充 ---
+||uu.163.com^
+||qiyou.cn^
+||qiyou.com^
+||golink.com^
+||tmjiasuqi.com^
+||akacc.net^
+||nn.com^
+||biubiu001.com^
+||tap加速器.cn^
+||ourplay.net^
+||jiasuqi.com^
+
+# --- 游戏交易/社区补充 ---
+||5173.cn^
+||dd373.com^
+||7881.com^
+||youxituoluo.com^
+||ngabbs.com^
+||tieba.baidu.com/f?kw=游戏^
+||bilibili.cn^
+||zhihu.com/topic/游戏^
+||weibo.cn^
+||douban.cn^
+||reddit.com/r/gaming^
+||discord.gg^
+||qq.cn^
+||wechat.com^
+
+# --- 游戏引擎/工具补充 ---
+||unity.cn^
+||unity3d.com^
+||epicgames.com^
+||godotengine.org^
+||cryengine.com^
+||cocos.com^
+||cocos2d-x.org^
+||gamemaker.io^
+||rpgmakerweb.com^
+||construct.net^
+||defold.com^
+||love2d.org^
+||phaser.io^
+||babylonjs.com^
+||threejs.org^
+||playcanvas.com^
+
+# --- 游戏数据/分析补充 ---
+||tencent.cn^
+||appsflyer.com^
+||adjust.com^
+||firebase.google.com^
+||gameanalytics.com^
+||talkingdata.com^
+||umeng.cn^
+||sensorsdata.cn^
+||growingio.com^
+||zhugeio.com^
+
+# --- 虚拟货币/区块链游戏补充 ---
+||opensea.io^
+||axieinfinity.com^
+||decentraland.org^
+||sandbox.game^
+||cryptokitties.co^
+||nba-topshot.com^
+||sorare.com^
+||stepn.com^
+||playtoearn.net^
+||dappradar.com^
+
+# --- 小游戏平台补充 ---
+||h5game.cn^
+||h5game.com^
+||5h.com^
+||7k7k.com^
+||3366.com^
+||qqgame.cn^
+||y.qq.com^
+||k.qq.com^
+||h5.37.com^
+||h5.37wan.net^
+||h5.youzu.com^
+
+# --- 儿童游戏补充 ---
+||abcmouse.cn^
+||abcmouse.com^
+||vipkid.com.cn^
+||zuoyebang.com^
+||yuanfudao.com^
+||tutorabc.com.cn^
+||51talk.com^
+||dadaabc.com^
+||hellokid.com^
+||gogokid.com^
+||palfish.cn^
+||lingostar.cn^
+
+# --- 棋牌补充 ---
+||qipai.com^
+||qipai.cn^
+||majiang.com^
+||majiang.cn^
+||paohuzi.com^
+||doudizhu.com^
+||texaspoker.com^
+||dezhoupuke.com^
+||zhajinhua.com^
+||niuniu.com^
+||saohuang.com^
+||hongzhong.com^
+||changsha.com^
+||guangdong.com^
+||sichuan.com^
+||zhejiang.com^
+||jiangsu.com^
+
+# --- 电竞赛事补充 ---
+||lpl.qq.com^
+||kpl.qq.com^
+||pel.qq.com^
+||cfpl.qq.com^
+||lpl.com^
+||kpl.com^
+||ti.com^
+||theinternational.com^
+||majors.com^
+||esl.com^
+||dreamhack.com^
+||blastpremier.com^
+||pgl.com^
+||weplay.tv^
+
+# --- 游戏外设/硬件补充 ---
+||razer.cn^
+||logitechg.com^
+||logitech.com^
+||steelseries.cn^
+||corsair.cn^
+||hyperxgaming.com^
+||asus.com^
+||rog.asus.com^
+||msi.com^
+||alienware.com^
+
+# --- 游戏发行商补充 ---
+||neteasegames.com^
+||tencentgames.com^
+||chukong.cn^
+||cocoachina.com^
+||appannie.com^
+||sensor-tower.com^
+||data.ai^
+
+# --- 游戏云服务补充 ---
+||aws.amazon.com/gametech^
+||azure.microsoft.com/gaming^
+||cloud.google.com/gaming^
+||aliyun.com/gaming^
+||tencentcloud.com/gaming^
+||huaweicloud.com/gaming^
+||ucloud.cn/gaming^
+||qingcloud.com/gaming^
